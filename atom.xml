@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>1024study</title>
   
-  
+  <subtitle>1024studyの个人博客</subtitle>
   <link href="http://www.1024study.com/atom.xml" rel="self"/>
   
   <link href="http://www.1024study.com/"/>
@@ -10,7 +10,7 @@
   <id>http://www.1024study.com/</id>
   
   <author>
-    <name>Mr.miao</name>
+    <name>Mr.miaoの个人博客</name>
     
   </author>
   
