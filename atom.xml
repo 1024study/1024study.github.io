@@ -91,7 +91,7 @@
     <link href="http://www.1024study.com/2020/12/08/hexo-jia-gitee-da-jian-ge-ren-bo-ke/"/>
     <id>http://www.1024study.com/2020/12/08/hexo-jia-gitee-da-jian-ge-ren-bo-ke/</id>
     <published>2020-12-08T01:25:00.000Z</published>
-    <updated>2021-12-06T13:30:23.263Z</updated>
+    <updated>2021-12-11T06:29:12.321Z</updated>
     
     
       
@@ -139,7 +139,7 @@
     <link href="http://www.1024study.com/2020/12/07/picgo-gitee-da-jian-si-ren-tu-chuang/"/>
     <id>http://www.1024study.com/2020/12/07/picgo-gitee-da-jian-si-ren-tu-chuang/</id>
     <published>2020-12-07T01:25:00.000Z</published>
-    <updated>2021-12-06T13:29:56.498Z</updated>
+    <updated>2021-12-11T07:48:42.642Z</updated>
     
     
       
@@ -181,6 +181,29 @@
     <category term="Typora" scheme="http://www.1024study.com/tags/Typora/"/>
     
     <category term="Markdown" scheme="http://www.1024study.com/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://www.1024study.com/2020/12/01/ru-he-jiang-ben-di-hexo-bo-ke-tong-shi-tui-song-dao-duo-ge-ping-tai/"/>
+    <id>http://www.1024study.com/2020/12/01/ru-he-jiang-ben-di-hexo-bo-ke-tong-shi-tui-song-dao-duo-ge-ping-tai/</id>
+    <published>2020-12-01T01:26:00.000Z</published>
+    <updated>2021-12-11T06:44:41.092Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;如何将自己本地的Hexo博客同时部署到自己的服务器、GitHub和码云Gitee等多个平台？？&quot;&gt;&lt;a href=&quot;#如何将自己本地的Hexo博客同时部署到自己的服务器、GitHub和码云Gitee等多个平台？？&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Hexo博客相关" scheme="http://www.1024study.com/tags/Hexo%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3/"/>
     
   </entry>
   
