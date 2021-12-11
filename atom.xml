@@ -6,7 +6,7 @@
   <link href="http://www.1024study.com/atom.xml" rel="self"/>
   
   <link href="http://www.1024study.com/"/>
-  <updated>2021-12-11T06:15:56.299Z</updated>
+  <updated>2021-12-11T08:00:00.557Z</updated>
   <id>http://www.1024study.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>宝塔面板搭建FastDFS图片服务器</title>
+    <title>FastDFS搭建教程</title>
     <link href="http://www.1024study.com/2021/12/04/bao-ta-mian-ban-da-jian-fastdfs/"/>
     <id>http://www.1024study.com/2021/12/04/bao-ta-mian-ban-da-jian-fastdfs/</id>
     <published>2021-12-04T06:25:35.000Z</published>
-    <updated>2021-12-11T06:15:56.299Z</updated>
+    <updated>2021-12-11T08:00:00.557Z</updated>
     
     
       
@@ -63,11 +63,11 @@
   </entry>
   
   <entry>
-    <title>将本地Hexo博客同时部署到自己的服务器、GitHub和码云Gitee等多个平台</title>
+    <title>本地Hexo博客同时部署到多个平台</title>
     <link href="http://www.1024study.com/2020/12/10/ru-he-jiang-ben-di-hexo-bo-ke-tong-shi-tui-song-dao-duo-ge-ping-tai/"/>
     <id>http://www.1024study.com/2020/12/10/ru-he-jiang-ben-di-hexo-bo-ke-tong-shi-tui-song-dao-duo-ge-ping-tai/</id>
     <published>2020-12-10T01:26:00.000Z</published>
-    <updated>2021-12-11T07:51:31.564Z</updated>
+    <updated>2021-12-11T08:00:42.010Z</updated>
     
     
       
@@ -86,11 +86,11 @@
   </entry>
   
   <entry>
-    <title>悟空M1空气检测仪联网方法</title>
+    <title>悟空M1空气检测仪联网</title>
     <link href="http://www.1024study.com/2020/12/10/wu-kong-m1-kong-qi-jian-ce-yi-lian-wang-fang-fa/"/>
     <id>http://www.1024study.com/2020/12/10/wu-kong-m1-kong-qi-jian-ce-yi-lian-wang-fang-fa/</id>
     <published>2020-12-10T01:26:00.000Z</published>
-    <updated>2021-12-10T14:52:34.699Z</updated>
+    <updated>2021-12-11T08:00:54.124Z</updated>
     
     
       
