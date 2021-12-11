@@ -42,25 +42,6 @@
     
     
     <entry>
-      <title>悟空M1空气检测仪联网</title>
-      <link href="/2020/12/10/wu-kong-m1-kong-qi-jian-ce-yi-lian-wang-fang-fa/"/>
-      <url>/2020/12/10/wu-kong-m1-kong-qi-jian-ce-yi-lian-wang-fang-fa/</url>
-      
-        <content type="html"><![CDATA[<h1 id="1、第一步：重置机器"><a href="#1、第一步：重置机器" class="headerlink" title="1、第一步：重置机器"></a>1、第一步：重置机器</h1><p>长按右侧按钮（大约15秒左右）WiFi灯快速闪烁</p><h1 id="2、第二步：连接机器WiFi"><a href="#2、第二步：连接机器WiFi" class="headerlink" title="2、第二步：连接机器WiFi"></a>2、第二步：连接机器WiFi</h1><p>手机连接WiFi（easylink…..）。只有长按右侧按钮后才会出现此WiFi</p><h1 id="3、第三步：连接路由器WiFi"><a href="#3、第三步：连接路由器WiFi" class="headerlink" title="3、第三步：连接路由器WiFi"></a>3、第三步：连接路由器WiFi</h1><p>打开easylink软件，输入路由器的WiFi名称，密码。(必须是2.4G频段的WiFi)。easylink软件会闪退，联网完成，时间已校准。</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 软件教程 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>本地Hexo博客同时部署到多个平台</title>
       <link href="/2020/12/10/ru-he-jiang-ben-di-hexo-bo-ke-tong-shi-tui-song-dao-duo-ge-ping-tai/"/>
       <url>/2020/12/10/ru-he-jiang-ben-di-hexo-bo-ke-tong-shi-tui-song-dao-duo-ge-ping-tai/</url>
@@ -72,6 +53,25 @@
         <tags>
             
             <tag> Hexo博客相关 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>悟空M1空气检测仪联网</title>
+      <link href="/2020/12/10/wu-kong-m1-kong-qi-jian-ce-yi-lian-wang-fang-fa/"/>
+      <url>/2020/12/10/wu-kong-m1-kong-qi-jian-ce-yi-lian-wang-fang-fa/</url>
+      
+        <content type="html"><![CDATA[<h1 id="1、第一步：重置机器"><a href="#1、第一步：重置机器" class="headerlink" title="1、第一步：重置机器"></a>1、第一步：重置机器</h1><p>长按右侧按钮（大约15秒左右）WiFi灯快速闪烁</p><h1 id="2、第二步：连接机器WiFi"><a href="#2、第二步：连接机器WiFi" class="headerlink" title="2、第二步：连接机器WiFi"></a>2、第二步：连接机器WiFi</h1><p>手机连接WiFi（easylink…..）。只有长按右侧按钮后才会出现此WiFi</p><h1 id="3、第三步：连接路由器WiFi"><a href="#3、第三步：连接路由器WiFi" class="headerlink" title="3、第三步：连接路由器WiFi"></a>3、第三步：连接路由器WiFi</h1><p>打开easylink软件，输入路由器的WiFi名称，密码。(必须是2.4G频段的WiFi)。easylink软件会闪退，联网完成，时间已校准。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 软件教程 </tag>
             
         </tags>
       
