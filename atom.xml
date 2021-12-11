@@ -63,29 +63,6 @@
   </entry>
   
   <entry>
-    <title>本地Hexo博客同时部署到多个平台</title>
-    <link href="http://www.1024study.com/2020/12/10/ru-he-jiang-ben-di-hexo-bo-ke-tong-shi-tui-song-dao-duo-ge-ping-tai/"/>
-    <id>http://www.1024study.com/2020/12/10/ru-he-jiang-ben-di-hexo-bo-ke-tong-shi-tui-song-dao-duo-ge-ping-tai/</id>
-    <published>2020-12-10T01:26:00.000Z</published>
-    <updated>2021-12-11T08:00:42.010Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;如何将自己本地的Hexo博客同时部署到自己的服务器、GitHub和码云Gitee等多个平台？？&quot;&gt;&lt;a href=&quot;#如何将自己本地的Hexo博客同时部署到自己的服务器、GitHub和码云Gitee等多个平台？？&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="Hexo博客相关" scheme="http://www.1024study.com/tags/Hexo%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3/"/>
-    
-  </entry>
-  
-  <entry>
     <title>悟空M1空气检测仪联网</title>
     <link href="http://www.1024study.com/2020/12/10/wu-kong-m1-kong-qi-jian-ce-yi-lian-wang-fang-fa/"/>
     <id>http://www.1024study.com/2020/12/10/wu-kong-m1-kong-qi-jian-ce-yi-lian-wang-fang-fa/</id>
@@ -106,6 +83,29 @@
     
     
     <category term="软件教程" scheme="http://www.1024study.com/tags/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>本地Hexo博客同时部署到多个平台</title>
+    <link href="http://www.1024study.com/2020/12/10/ru-he-jiang-ben-di-hexo-bo-ke-tong-shi-tui-song-dao-duo-ge-ping-tai/"/>
+    <id>http://www.1024study.com/2020/12/10/ru-he-jiang-ben-di-hexo-bo-ke-tong-shi-tui-song-dao-duo-ge-ping-tai/</id>
+    <published>2020-12-10T01:26:00.000Z</published>
+    <updated>2021-12-11T08:00:42.010Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;如何将自己本地的Hexo博客同时部署到自己的服务器、GitHub和码云Gitee等多个平台？？&quot;&gt;&lt;a href=&quot;#如何将自己本地的Hexo博客同时部署到自己的服务器、GitHub和码云Gitee等多个平台？？&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Hexo博客相关" scheme="http://www.1024study.com/tags/Hexo%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3/"/>
     
   </entry>
   
